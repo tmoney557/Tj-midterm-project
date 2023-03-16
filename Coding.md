@@ -56,6 +56,8 @@ function fizzbuzz() {
   
   _Links:_
   
+Intro: [README](README.md)
+  
 Page 1: [Beginnings](Beginnings.md)
 
 Page 2: [Hobbies](Hobbies.md)
