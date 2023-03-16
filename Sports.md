@@ -12,3 +12,8 @@ Tj is also a huge Chiefs fan. He became a Chiefs fan after the St. Louis Rams un
 
 _Links:_
 
+Page 1: [Beginnings](Beginnings.md)
+
+Page 2: [Hobbies](Hobbies.md)
+
+Page 3: [School](school.md) 
