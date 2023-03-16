@@ -18,7 +18,7 @@ _Links:_
 
 Intro: [README](README.md)
 
-Page 2: [Hobbies](Hobbles.md)
+Page 2: [Hobbies](Hobbies.md)
 
 Page 3: [School](school.md) 
 
