@@ -18,6 +18,13 @@ _Links:_
 
 Intro: [README](README.md)
 
-Page 2: [Hobbies](Hobbies.md)
+Page 2: [Hobbies](Hobbles.md)
+
+Page 3: [School](school.md) 
+
+Page 4: [Track](Track.md)
+
+Page 5: [Family](Family.md)
+
 
 
