@@ -19,3 +19,5 @@ Page 1: [Beginnings](Beginnings.md)
 Page 2: [Hobbies](Hobbies.md)
 
 Page 3: [School](school.md) 
+
+Page 5: [Coding](coding.md)
