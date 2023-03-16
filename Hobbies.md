@@ -10,3 +10,10 @@ Tj also enjoys watching his favorite tv shows. One of his favorite tv shows to w
 
 There are a lot more hobbies that Tj has, but he feels like his list would take a lot more than just one page and he doesn't want to waste time.
 
+_Links:_
+
+Page 3: [School](school.md) 
+
+Page 4: [Track](Track.md)
+
+Page 5: [Family](Family.md)
