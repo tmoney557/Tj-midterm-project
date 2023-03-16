@@ -10,7 +10,7 @@ Links:
 
 Page 1: [Beginnings](Beginnings.md)
 
-Page 2: [Hobbies](Hobbles.md)
+Page 2: [Hobbies](Hobbies.md)
 
 Page 3: [School](school.md) 
 
