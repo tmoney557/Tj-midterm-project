@@ -11,4 +11,5 @@ Tj's  middle school days
 Tj's high school days
 ```
 > ### Tj attended CBC high school in St. Louis. During his time in High school, Tj continued his successful track career and ended making the varsity team as a freshman. Tj also was involved in many clubs such as the movie club at his school and was a very smart student. Tj was on the honor roll every single year in high school. Tj ended graduating with first honors and with a 3.74 cumulative GPA.
+> https://user-images.githubusercontent.com/128004223/225518881-ee681ccb-59e0-4264-83db-81963480cdd8.mp4
 > 
