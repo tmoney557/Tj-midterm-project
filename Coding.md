@@ -54,4 +54,14 @@ function fizzbuzz() {
   
  Out of all the programming languages that Tj used, the programming language that he is comfortable with the most is Visual Code. The reason why that is the case is because he feels using this particular programming language editor jsut comes easy to him. Also he has way more experience using this programming language text editor compared to others.
   
+  _Links:_
   
+Page 1: [Beginnings](Beginnings.md)
+
+Page 2: [Hobbies](Hobbies.md)
+
+Page 3: [School](school.md) 
+
+Page 4: [Sports](Sports.md)
+
+
