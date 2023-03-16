@@ -12,6 +12,8 @@ There are a lot more hobbies that Tj has, but he feels like his list would take 
 
 _Links:_
 
+Intro: [README](README.md)
+
 Page 3: [School](school.md) 
 
 Page 4: [Track](Track.md)
