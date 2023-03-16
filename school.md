@@ -13,6 +13,8 @@ _Links:_
 
 Intro: [README](README.md)
 
+Page 1: [Beginnings](Beginnings.md)
+
 Page 2: [Hobbies](Hobbies.md) 
 
 Page 4: [Track](Track.md)
