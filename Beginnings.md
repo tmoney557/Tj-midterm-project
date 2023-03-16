@@ -17,3 +17,7 @@ Tj is from the state of Missouri and from the city of St. Louis
 _Links:_
 
 Intro: [README](README.md)
+
+Page 2: [Hobbies](Hobbies.md)
+
+
