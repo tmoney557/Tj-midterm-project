@@ -20,4 +20,4 @@ Page 2: [Hobbies](Hobbies.md)
 
 Page 3: [School](school.md) 
 
-Page 5: [Coding](coding.md)
+Page 5: [Coding](Coding.md)
